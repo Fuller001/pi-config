@@ -26,7 +26,7 @@
     "npm:pi-slopchop@0.10.1",
     "npm:pi-web-access@0.35.0",
     "npm:pi-workspace-history@0.4.8",
-    "https://github.com/Fuller001/pi-auto-provider@6d8a1bb5ae4831bb3a1045697a3d063a782424b7",
+    "https://github.com/Fuller001/pi-auto-provider@187b43d65c77921e28f3a1ade80c3f6b010cf0b8",
     "https://github.com/Fuller001/pi-ios-bark@aa6aeb33890029730bb8dcd0b5ee18c9cd117a21"
   ]
 }
