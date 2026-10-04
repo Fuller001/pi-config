@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://api.day.app/YOUR_BARK_DEVICE_KEY",
+  "machine": "YOUR_DEVICE_NAME",
+  "locale": "zh-TW",
+  "events": {
+    "agentSettled": true,
+    "askUserQuestion": true
+  }
+}

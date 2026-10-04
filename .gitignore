@@ -1,0 +1,4 @@
+# Device-specific credentials and runtime state
+config/auto-provider.json
+config/bark.json
+*.local.json

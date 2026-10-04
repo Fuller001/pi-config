@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "my-proxy": {
+      "baseUrl": "http://data.guoqil.top:8316/v1",
+      "api": "openai-completions",
+      "apiKey": "!cat ~/.config/pi/my-proxy-api-key",
+      "authHeader": true,
+      "compat": {
+        "supportsStore": false,
+        "sendSessionAffinityHeaders": true
+      },
+      "name": "My proxy"
+    }
+  }
+}

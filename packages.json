@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "description": "Portable Pi package configuration for Fuller001 devices.",
+  "packages": [
+    "npm:@ff-labs/pi-fff@0.11.0",
+    "npm:@juanibiapina/pi-extension-settings@0.10.0",
+    "npm:@juanibiapina/pi-powerbar@0.16.0",
+    "npm:@juicesharp/rpiv-ask-user-question@2.12.0",
+    "npm:@juicesharp/rpiv-todo@2.12.0",
+    "npm:@narumitw/pi-btw@0.61.1",
+    "npm:@narumitw/pi-caffeinate@0.49.9",
+    "npm:@narumitw/pi-goal@0.54.8",
+    "npm:@narumitw/pi-lsp@0.49.9",
+    "npm:@narumitw/pi-plan-mode@0.58.4",
+    "npm:@narumitw/pi-subagents@3.1.1",
+    "npm:@tmustier/pi-raw-paste@0.1.3",
+    "npm:@victor-software-house/pi-curated-themes@0.2.1",
+    "npm:alps-pi@0.3.4",
+    "npm:pi-add-dir@1.3.1",
+    "npm:pi-agent-browser-native@0.9.1",
+    "npm:pi-autoresearch@1.8.1",
+    "npm:pi-cache-optimizer@2.8.18",
+    "npm:pi-hashline-edit-pro@5.1.0",
+    "npm:pi-mcp-adapter@5.0.0",
+    "npm:pi-rtk-optimizer@0.9.0",
+    "npm:pi-slopchop@0.10.1",
+    "npm:pi-web-access@0.35.0",
+    "npm:pi-workspace-history@0.4.8",
+    "https://github.com/Fuller001/pi-auto-provider@6d8a1bb5ae4831bb3a1045697a3d063a782424b7",
+    "https://github.com/Fuller001/pi-ios-bark@aa6aeb33890029730bb8dcd0b5ee18c9cd117a21"
+  ]
+}

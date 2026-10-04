@@ -1,0 +1,54 @@
+{
+  "theme": "dark",
+  "extensions": [
+    "-builtin:mcp"
+  ],
+  "alps-pi": {
+    "chromeFrame": {
+      "enabled": true,
+      "assistantFrame": true,
+      "toolCompactMode": "off",
+      "compactEditTool": true
+    },
+    "fixedBottomEditor": {
+      "enabled": true
+    },
+    "beautifiedInput": {
+      "enabled": true
+    },
+    "inputMetrics": {
+      "inputTokens": true,
+      "outputTokens": true,
+      "cacheHit": true,
+      "tokenSpeed": true,
+      "elapsedTime": true
+    },
+    "footer": {
+      "enabled": true
+    },
+    "animations": {
+      "enabled": true,
+      "randomMode": false,
+      "working": "crush",
+      "thinking": "shimmer",
+      "tool": "pipeline",
+      "width": "default",
+      "fps": 16
+    },
+    "shortcuts": {
+      "stashEditor": "alt+s",
+      "copyEditor": "ctrl+alt+c",
+      "cutEditor": "ctrl+alt+x",
+      "scrollChatUp": "super+up",
+      "scrollChatDown": "super+down",
+      "editorStart": "super+shift+up",
+      "editorEnd": "super+shift+down",
+      "jumpPreviousUserMessage": "ctrl+shift+u",
+      "jumpNextUserMessage": "ctrl+shift+i",
+      "jumpPreviousAssistantMessage": "ctrl+alt+,",
+      "jumpNextAssistantMessage": "ctrl+alt+.",
+      "jumpChatBottom": "ctrl+shift+g"
+    },
+    "_storageVersion": 1
+  }
+}
